@@ -8,7 +8,7 @@ const App=()=>{
             alignItems: 'center',
             backgroundColor:"black"
           }}>
-          <Text style={{color:'white'}}>Hello, world!</Text>
+          <Text style={{color:'white'}}>Video Streaming App!</Text>
         </View>
       );
     }
